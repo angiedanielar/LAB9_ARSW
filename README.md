@@ -3,7 +3,7 @@
 
 
 * _Angie Daniela Ruiz Alfonso_
-* _Juan Sebastian Díaz Sala
+* _Juan Sebastian Díaz Salamanca_
 
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
