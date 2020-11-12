@@ -48,7 +48,7 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 ### Informe
 
-_Se modificó la colección de POSTMAN con NEWMAN, luego para verificar que funcionara correctamente abrimos una consola para probar, como vimos que se ejecutaba correctamente, procedimos a abrir varias consolas para la simulación del uso de la función por medio de 4 clientes conectados, logrando ver que todas las peticiones se aceptaron de manera éxitosa, que se obtuvo un tiempo de respuesta de 523 ms y un espacio de trabajo de meoria de 263.45 mb (este teniendo en cuenta que enviamos muchas peticiones antes de las 4 para pruebas). Concluyendo así que a pesar de que la implementación es ineficiente, al usar la infraestructura serverless se logra responder a todas las peticiones que hace el cliente de manera rápida pero existe un consumo alto de recursos de cpu. _
+_Se modificó la colección de POSTMAN con NEWMAN, luego para verificar que funcionara correctamente abrimos una consola para probar, como vimos que se ejecutaba correctamente, procedimos a abrir varias consolas para la simulación del uso de la función por medio de 4 clientes conectados, logrando ver que todas las peticiones se aceptaron de manera éxitosa, que se obtuvo un tiempo de respuesta de 523 ms y un espacio de trabajo de meoria de 263.45 mb (este teniendo en cuenta que enviamos muchas peticiones antes de las 4 para pruebas). Concluyendo así que a pesar de que la implementación es ineficiente, al usar la infraestructura serverless se logra responder a todas las peticiones que hace el cliente de manera rápida pero existe un consumo alto de recursos de cpu._
 
 
 _Evidencias:_
